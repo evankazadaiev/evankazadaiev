@@ -3,15 +3,6 @@
 🎯 Full-Stack Engineer | 8+ years experience  
 🏥 FinTech, HealthTech, GeoAI  
 🤝 Thoughtful, independent, and team-oriented  
-🌍 Berlin, Germany
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**: React, React Native, Flutter, Vue, TypeScript  
-**Backend**: Node.js, NestJS, PostgreSQL, MongoDB  
-**Infra**: Docker, AWS, CI/CD, Vite, Turborepo
 
 ---
 

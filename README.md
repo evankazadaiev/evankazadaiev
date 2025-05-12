@@ -1,5 +1,3 @@
-## Ivan Kazadaiev
-
 🎯 Full-Stack Engineer | 8+ years experience  
 🏥 FinTech, HealthTech, GeoAI  
 🤝 Thoughtful, independent, and team-oriented  

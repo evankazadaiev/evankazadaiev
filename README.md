@@ -11,9 +11,7 @@
 
 **Frontend**: React, React Native, Flutter, Vue, TypeScript  
 **Backend**: Node.js, NestJS, PostgreSQL, MongoDB  
-**Infra**: Docker, AWS, CI/CD, Vite, Turborepo  
-**Approach**: Clean Architecture, Event-Sourcing, DDD  
-**Tools**: AG-Grid, Deck.GL, SurveyJS, WebRTC  
+**Infra**: Docker, AWS, CI/CD, Vite, Turborepo
 
 ---
 
